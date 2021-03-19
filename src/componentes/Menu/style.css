@@ -1,0 +1,61 @@
+.limitar-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.menu-apresentacao {
+    background-color:#1b3675;
+    padding: 20px 0;
+    padding-top: 100px;
+}
+
+.menu-apresentacao h1 {
+    margin: 0;
+    color: #fdb203;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.menu-apresentacao span {
+    font-weight: 500;
+}
+
+.menu-apresentacao p{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+
+.lista-servicos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lista-servicos li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.lista-servicos li img {
+    margin-right: 5px;
+    width: 25px;
+    height: 25px;
+}
+
+.lista-servicos li p{
+    display: flex;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.Link{
+    text-decoration: none;
+    color: #fff;
+}

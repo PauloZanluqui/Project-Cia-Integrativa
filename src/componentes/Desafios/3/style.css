@@ -1,0 +1,35 @@
+.limita-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.div-form{
+    padding-top: 20px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}
+
+.botao{
+    font-size: 16px;
+    margin: 15px;
+    padding: 5px;
+    width: 100px;
+}
+
+.form-label{
+    padding: 5px;
+}
+
+.inputs{
+    text-align: center;
+    width: 200px;
+}
